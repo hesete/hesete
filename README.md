@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## ⚡ GitHub Stats
+
+
+<div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hesete&show_icons=true&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesete&layout=compact&theme=dracula"/>
+  </div>
+
 <!--
 **hesete/hesete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
